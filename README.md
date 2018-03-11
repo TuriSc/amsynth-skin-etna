@@ -1,5 +1,5 @@
 # Etna
-A skin for amsynth - Analog Modelling Synthesizer
+A skin for [amsynth](https://amsynth.github.io/) - Analog Modelling Synthesizer
 
 ![screenshot](https://github.com/turisc/amsynth-skin-etna/raw/master/amsynth-skin-etna-screenshot.png)
 
